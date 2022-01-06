@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zakikii
-- 👀 I’m interested in develop mobile app with flutter
-- 🌱 I’m currently learning flutter, laravel, and something like that
+- 👀 I’m interested in develop mobile app using flutter 
+- 🌱 I’m currently learning flutter, laravel as backend, and something like that
 - 💞️ I’m looking to collaborate on flutter project, beck end or front end
 
 <!---
