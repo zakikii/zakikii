@@ -26,7 +26,7 @@ Currently working on government-scale applications at the House of Representativ
 ### 🌐 Multi-Platform Repositories
 I maintain two GitHub accounts:
 - [pustekinfodev](https://github.com/pustekinfodev) - Professional and project repositories
-- [Personal GitHub Account](https://github.com/alwanzaki) - Personal projects and explorations
+- [Personal GitHub Account](https://github.com/alwanzaki) - Personal, Professional projects and explorations
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alwanzaki1999-blue)](https://www.linkedin.com/in/alwanzaki1999)
